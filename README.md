@@ -1,2 +1,2 @@
 # Joke-Generator
-A Simple Website That Will Generate Random Joke For You
+A Simple Website That Will Generate Random Jokes For You
