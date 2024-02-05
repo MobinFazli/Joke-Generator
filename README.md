@@ -1,5 +1,5 @@
 # Joke-Generator
-A Simple Website That Will Generate Random Jokes For You
+**A Simple Website That Will Generate Random Jokes For You**
 
 <img width="1512" alt="1" src="https://github.com/MobinFazli/Joke-Generator/assets/126828525/cc0c2fcc-8b43-49ec-872b-065aac32441a">
 
